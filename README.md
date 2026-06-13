@@ -62,7 +62,6 @@ Faça um Programa que converta metros para centímetros.
 Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
 
 #### [Exercicio 007](exercicios/007.py)
-
 Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro
 desta área para o usuário.
 
